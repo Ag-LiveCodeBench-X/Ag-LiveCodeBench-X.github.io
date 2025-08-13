@@ -1,7 +1,7 @@
 model,org,avg,ocaml,fortran
-Llama-3.3-70B-Ins,Meta,0,7,3
-Qwen3-32B,?,0,2,1
-DeepSeek Coder v2 Lite Ins 16B,DeepSeek,0,7,6
-Qwen3-4B,?,0,1,0
-Qwen3-4B-CF-OCaml,us,0,7,?
-Qwen3-4B-CF-Fortran,us,0,?,15
+Llama-3.3-70B-Ins,Meta,5.00,7,3
+Qwen3-32B,?,1.50,2,1
+DeepSeek Coder v2 Lite Ins 16B,DeepSeek,6.50,7,6
+Qwen3-4B,?,0.50,1,0
+Qwen3-4B-CF-OCaml,us,7.00,7,?
+Qwen3-4B-CF-Fortran,us,15.00,?,15
