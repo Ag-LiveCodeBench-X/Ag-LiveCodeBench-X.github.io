@@ -1,0 +1,23 @@
+model,org,avg,lua,julia,r
+Llama 3.3 70B Instruct,Meta,20.00,25,22,13
+Qwen3 32B,?,21.67,22,26,17
+DeepSeek Coder v2 Lite Instruct 16B,DeepSeek,11.33,13,12,9
+Qwen3 4B,?,10.33,11,10,10
+Qwen3 8B,?,9.67,11,9,9
+Qwen3-4B-CF-Lua,us,23.00,23,?,?
+Qwen3-4B-CF-Julia,us,22.00,?,22,?
+Qwen3-4B-CF-R,us,15.00,?,?,15
+Qwen3-8B-CF-Lua,us,25.00,25,?,?
+Qwen3-8B-CF-Julia,us,25.00,?,25,?
+Qwen3-8B-CF-R,us,19.00,?,?,19
+Qwen3-4B-MBPP-Lua,us,15.00,15,?,?
+Qwen3-4B-MBPP-Julia,us,15.00,?,15,?
+Qwen3-4B-MBPP-R,us,9.00,?,?,9
+Phi4 mini instruct,us,4.67,7,7,0
+DeepSeek Coder 6.7B Instruct,us,6.67,8,5,7
+Phi4-mini-instruct-CF-Lua,us,11.00,11,?,?
+Phi4-mini-instruct-CF-Julia,us,8.00,?,8,?
+Phi4-mini-instruct-CF-R,us,0.00,?,?,0
+DeepSeek-Coder-6.7B-Instruct-CF-Lua,us,9.00,9,?,?
+DeepSeek-Coder-6.7B-Instruct-CF-Julia,us,9.00,?,9,?
+DeepSeek-Coder-6.7B-Instruct-CF-R,us,9.00,?,?,9
