@@ -1,9 +1,12 @@
 model,org,avg,lua,julia,r
+Kimi K2,?,31.33,43,37,14
+Qwen 3 Coder,Alibaba Cloud,22.00,?,37,7
+Sonnet 4,Anthropic,0.00,?,?,?
 Llama 3.3 70B Instruct,Meta,20.00,25,22,13
-Qwen3 32B,?,21.67,22,26,17
+Qwen3 32B,Alibaba Cloud,21.67,22,26,17
 DeepSeek Coder v2 Lite Instruct 16B,DeepSeek,11.33,13,12,9
-Qwen3 4B,?,10.33,11,10,10
-Qwen3 8B,?,9.67,11,9,9
+Qwen3 4B,Alibaba Cloud,10.33,11,10,10
+Qwen3 8B,Alibaba Cloud,9.67,11,9,9
 Qwen3-4B-CF-Lua,us,23.00,23,?,?
 Qwen3-4B-CF-Julia,us,22.00,?,22,?
 Qwen3-4B-CF-R,us,15.00,?,?,15

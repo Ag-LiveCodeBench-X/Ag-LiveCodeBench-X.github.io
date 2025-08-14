@@ -1,7 +1,9 @@
 model,org,avg,ocaml,fortran
+Kimi K2,?,17.00,28,6
+Qwen 3 Coder,Alibaba Cloud,19.00,26,12
 Llama-3.3-70B-Ins,Meta,5.00,7,3
-Qwen3-32B,?,1.50,2,1
+Qwen3-32B,Alibaba Cloud,1.50,2,1
 DeepSeek Coder v2 Lite Ins 16B,DeepSeek,6.50,7,6
-Qwen3-4B,?,0.50,1,0
+Qwen3-4B,Alibaba Cloud,0.50,1,0
 Qwen3-4B-CF-OCaml,us,7.00,7,?
 Qwen3-4B-CF-Fortran,us,15.00,?,15
