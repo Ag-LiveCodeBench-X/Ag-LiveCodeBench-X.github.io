@@ -1,5 +1,4 @@
 model,org,avg,lua,julia,r
-Sonnet 4,Anthropic,false,false,0.00,?,?,?
 Qwen 3 Coder,Alibaba Cloud,false,false,22.00,?,37,7
 Phi4 mini instruct,Microsoft,4.67,7,7,0
 DeepSeek Coder 6.7B Instruct,DeepSeek,6.67,8,5,7
