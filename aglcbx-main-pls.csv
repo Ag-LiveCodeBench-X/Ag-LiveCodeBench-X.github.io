@@ -1,26 +1,13 @@
-model,org,avg,lua,julia,r
-Kimi K2,?,31.33,43,37,14
-Qwen 3 Coder,Alibaba Cloud,22.00,?,37,7
-Sonnet 4,Anthropic,0.00,?,?,?
-Llama 3.3 70B Instruct,Meta,20.00,25,22,13
-Qwen3 32B,Alibaba Cloud,21.67,22,26,17
-DeepSeek Coder v2 Lite Instruct 16B,DeepSeek,11.33,13,12,9
-Qwen3 4B,Alibaba Cloud,10.33,11,10,10
-Qwen3 8B,Alibaba Cloud,9.67,11,9,9
-Qwen3-4B-CF-Lua,us,23.00,23,?,?
-Qwen3-4B-CF-Julia,us,22.00,?,22,?
-Qwen3-4B-CF-R,us,15.00,?,?,15
-Qwen3-8B-CF-Lua,us,25.00,25,?,?
-Qwen3-8B-CF-Julia,us,25.00,?,25,?
-Qwen3-8B-CF-R,us,19.00,?,?,19
-Qwen3-4B-MBPP-Lua,us,15.00,15,?,?
-Qwen3-4B-MBPP-Julia,us,15.00,?,15,?
-Qwen3-4B-MBPP-R,us,9.00,?,?,9
-Phi4 mini instruct,us,4.67,7,7,0
-DeepSeek Coder 6.7B Instruct,us,6.67,8,5,7
-Phi4-mini-instruct-CF-Lua,us,11.00,11,?,?
-Phi4-mini-instruct-CF-Julia,us,8.00,?,8,?
-Phi4-mini-instruct-CF-R,us,0.00,?,?,0
-DeepSeek-Coder-6.7B-Instruct-CF-Lua,us,9.00,9,?,?
-DeepSeek-Coder-6.7B-Instruct-CF-Julia,us,9.00,?,9,?
-DeepSeek-Coder-6.7B-Instruct-CF-R,us,9.00,?,?,9
+model,org,is-small,is-small-comparable,avg,lua,julia,r
+Qwen3-4B-CF-Lua,ours,true,true,12.67,23,9,6
+Qwen3-4B-CF-Julia,ours,true,true,13.33,10,22,8
+Qwen3-4B-CF-R,ours,true,true,12.33,11,11,15
+Qwen3-8B-CF-Lua,ours,true,true,15.00,25,10,10
+Qwen3-8B-CF-Julia,ours,true,true,16.00,10,25,13
+Qwen3-8B-CF-R,ours,true,true,13.67,11,11,19
+Kimi K2,?,false,false,31.33,43,37,14
+Llama 3.3 70B Instruct,Meta,false,true,20.00,25,22,13
+Qwen 3 32B,Alibaba Cloud,false,true,21.67,22,26,17
+DeepSeek Coder v2 Lite Instruct 16B,DeepSeek,true,true,11.33,13,12,9
+Qwen 3 4B,Alibaba Cloud,true,true,10.33,11,10,10
+Qwen 3 8B,Alibaba Cloud,true,true,9.67,11,9,9
