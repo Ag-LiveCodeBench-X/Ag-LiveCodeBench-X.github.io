@@ -15,4 +15,5 @@ DeepSeek Coder v2 Lite Instruct 16B,DeepSeek,true,true,11.33,13,12,9
 Qwen 3 32B,Alibaba Cloud,false,true,21.67,22,26,17
 Qwen 3 4B,Alibaba Cloud,true,true,10.33,11,10,10
 Qwen 3 8B,Alibaba Cloud,true,true,9.67,11,9,9
+Qwen 3 Coder 30B,AlibabaCloud,false,false,18.33,29,19,7
 SmolLM3,HuggingFace,true,true,1.00,1,2,0
