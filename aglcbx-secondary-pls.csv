@@ -1,10 +1,10 @@
 model,org,is-small,is-small-comparable,avg,ocaml,fortran
-Qwen3-4B-CF-OCaml,ours,true,true,4.00,7,1
-Qwen3-4B-CF-Fortran,ours,true,true,7.50,0,15
-Kimi K2,?,false,false,17.00,28,6
-Sonnet 4,Anthropic,false,false,6.00,6,6
-Qwen 3 Coder,Alibaba Cloud,false,false,19.00,26,12
-Llama-3.3-70B-Ins,Meta,false,true,5.00,7,3
-Qwen3-32B,Alibaba Cloud,false,true,1.50,2,1
-DeepSeek Coder v2 Lite Ins 16B,DeepSeek,true,true,6.50,7,6
-Qwen3-4B,Alibaba Cloud,true,true,0.50,1,0
+Qwen3-4B-CF-OCaml,ours,true,true,4,7,1
+Qwen3-4B-CF-Fortran,ours,true,true,8,0,15
+Kimi K2,?,false,false,17,28,6
+Sonnet 4,Anthropic,false,false,6,6,6
+Qwen 3 Coder,Alibaba Cloud,false,false,19,26,12
+Llama-3.3-70B-Ins,Meta,false,true,5,7,3
+Qwen3-32B,Alibaba Cloud,false,true,2,2,1
+DeepSeek Coder v2 Lite Ins 16B,DeepSeek,true,true,6,7,6
+Qwen3-4B,Alibaba Cloud,true,true,0,1,0
