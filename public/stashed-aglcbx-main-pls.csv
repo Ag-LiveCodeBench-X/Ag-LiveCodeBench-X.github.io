@@ -1,0 +1,12 @@
+model,org,avg,lua,julia,r
+Phi4 mini instruct,Microsoft,4.67,7,7,0
+DeepSeek Coder 6.7B Instruct,DeepSeek,6.67,8,5,7
+Phi4-mini-instruct-CF-Lua,ours,11.00,11,?,?
+Phi4-mini-instruct-CF-Julia,ours,8.00,?,8,?
+Phi4-mini-instruct-CF-R,ours,0.00,?,?,0
+DeepSeek-Coder-6.7B-Instruct-CF-Lua,ours,9.00,9,?,?
+DeepSeek-Coder-6.7B-Instruct-CF-Julia,ours,9.00,?,9,?
+DeepSeek-Coder-6.7B-Instruct-CF-R,ours,9.00,?,?,9
+Qwen3-4B-MBPP-Lua,ours,15.00,15,?,?
+Qwen3-4B-MBPP-Julia,ours,15.00,?,15,?
+Qwen3-4B-MBPP-R,ours,9.00,?,?,9
