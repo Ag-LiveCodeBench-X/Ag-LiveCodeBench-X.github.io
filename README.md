@@ -25,4 +25,3 @@ npm run deploy
 ```
 
 This will build the project and push it to the `gh-pages` branch.
-
