@@ -20,6 +20,8 @@ Automatically reloads on file changes and serves at [http://localhost:3000](http
 
 ### Deploying
 ```bash
+./scripts/recompute_avg.sh public/aglcbx-main-pls.csv
+./scripts/recompute_avg.sh public/aglcbx-secondary-pls.csv
 npm run build
 npm run deploy
 ```
