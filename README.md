@@ -24,8 +24,7 @@ Automatically reloads on file changes and serves at [http://localhost:3000](http
 ./scripts/recompute_avg.sh public/aglcbx-secondary-pls.csv
 # Alternatively:
 # parallel -- ./scripts/recompute_avg.sh ::: public/aglcbx-main-pls.csv public/aglcbx-secondary-pls.csv 
-npm run build
-npm run deploy
+npm run build && npm run deploy
 ```
 
 This will build the project and push it to the `gh-pages` branch.
