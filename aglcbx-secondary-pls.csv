@@ -4,7 +4,9 @@ Qwen3-4B-CF-Fortran,ours,true,true,8,0,15
 Kimi K2,?,false,false,17,28,6
 Sonnet 4,Anthropic,false,false,6,6,6
 Qwen 3 Coder,Alibaba Cloud,false,false,19,26,12
-Llama-3.3-70B-Ins,Meta,false,true,5,7,3
-Qwen3-32B,Alibaba Cloud,false,true,2,2,1
+Llama 3.3 70B Ins,Meta,false,true,5,7,3
+Qwen 3 32B,Alibaba Cloud,false,true,2,2,1
 DeepSeek Coder v2 Lite Ins 16B,DeepSeek,true,true,6,7,6
-Qwen3-4B,Alibaba Cloud,true,true,0,1,0
+Qwen 3 4B,Alibaba Cloud,true,true,0,1,0
+GPT 5.2 (no thinking),OpenAI,false,false,25,35,15
+Opus 4.6 (no thinking),Anthropic,false,false,48,60,36
